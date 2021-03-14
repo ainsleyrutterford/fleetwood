@@ -15,10 +15,6 @@ macOS installation on a GA-78LMT-USB3 with AMD FX-8320.
 
 ## To do
 
-- Update BIOS
-- Gather kexts
-- Gather drivers
-- Gather SSDTs
-- `config.plist`
 - Install Catalina
 - Upgrade to Big Sur
+- Make bootable backup of this and studiomac
