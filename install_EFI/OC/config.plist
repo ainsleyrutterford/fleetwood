@@ -1819,7 +1819,7 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>HfsPlus.efi</string>
+			<string>HfsPlusLegacy.efi</string>
 			<string>OpenRuntime.efi</string>
 		</array>
 		<key>Input</key>
