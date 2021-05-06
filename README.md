@@ -1,15 +1,15 @@
 # fleetwood
 
-macOS installation on a GA-78LMT-USB3 with AMD FX-8320.
+macOS installation on a GA-H87-HD3 with an Intel i5-4570.
 
 ## Hardware
 
-- **CPU:** AMD FX-8320
+- **CPU:** Intel i5-4570
 - **GPU:** ASUS NVIDIA GT 740
 - **Memory:** DDR3 16GB
-- **Motherboard:** Gigabyte GA-78LMT-USB3 v6
-  - **Ethernet card:** Realtek RTL8168/8111
-  - **Audio codec:** Realtek ALC892
+- **Motherboard:** Gigabyte GA-H87-HD3 v? BIOS v?
+  - **Ethernet card:** ...
+  - **Audio codec:** ...
 - **Storage:** SAMSUNG 840 EVO 120GB SSD
 - **Power Supply:** Corsair 430M
 
