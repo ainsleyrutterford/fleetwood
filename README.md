@@ -17,4 +17,6 @@ macOS installation on a GA-H87-HD3 with an Intel i5-4570.
 
 - Install Catalina
 - Upgrade to Big Sur
+- Change to release versions of OpenCore
+- Change to release versions of kexts
 - Make bootable backup of this and studiomac
