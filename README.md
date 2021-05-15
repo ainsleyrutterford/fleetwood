@@ -17,7 +17,6 @@ macOS installation on a GA-H87-HD3 with an Intel i5-4570.
 
 - Stuttering bluetooth and wireless mouse. Fixed by changing WiFi to 5GHz rather than 2.4GHz.
 - Kernel panics. Removed GT 740 and seems to have fixed so far.
-- Ethernet not working. Not fixed yet.
 
 ## To do
 
