@@ -13,6 +13,12 @@ macOS installation on a GA-H87-HD3 with an Intel i5-4570.
 - **Storage:** SAMSUNG 840 EVO 120GB SSD
 - **Power Supply:** Corsair 430M
 
+## Issues
+
+- Stuttering bluetooth and wireless mouse. Fixed by changing WiFi to 5GHz rather than 2.4GHz.
+- Kernel panics. Removed GT 740 and seems to have fixed so far.
+- Ethernet not working. Not fixed yet.
+
 ## To do
 
 - Change to release versions of OpenCore
